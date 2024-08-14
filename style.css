@@ -104,6 +104,10 @@ header h1 {
   color: red;
 }
 
+.hidden {
+  display: none;
+}
+
 /* Items */
 
 .items {
